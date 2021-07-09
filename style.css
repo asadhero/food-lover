@@ -19,6 +19,7 @@ h3{
 .display-flex{
     display: flex;
     padding-bottom: 10%;
+   
 }
 .half-width img{
     width: 80%;
@@ -33,4 +34,28 @@ h3{
 .bac-img{
     background-image: url(images/7.png);
     background-repeat: no-repeat;
+}
+#text-align{
+    text-align: center;
+}
+.margin{
+    margin-left: 20%;
+    margin-right: 20%;
+ 
+}
+footer{
+    text-align: center;
+    background-color: black;
+    padding-bottom: 10%;
+    padding-top: 5%;
+    
+}
+.orange{
+    color: rgb(245, 162, 8);
+}
+.gray{
+    color: gray;
+}
+.white{
+    color: white;
 }
